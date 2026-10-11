@@ -15,6 +15,22 @@ using distributed storage and processing technologies.
 
 ------------------------------------------------------------------------
 
+👨‍💻 My Contributions
+
+This was a collaborative team project. My primary contributions focused on product dimensional modeling, data ingestion, and integrating the team's components into a working environment.
+
+Product Dimension — SCD Type 2: Implemented historical product price tracking, preserving product price versions over time.
+
+Apache NiFi: Developed data ingestion flows to move source data into the pipeline.
+
+Environment & Storage: Set up and managed the local Hadoop/HDFS environment and worked with Spark and Hive for data processing and analytical querying.
+
+Integration & Deployment: Integrated code developed by teammates, managed local deployment and storage, and brought the project's components together into a working solution.
+
+Original team repository: Customers and Products Dimensional Modeling
+
+------------------------------------------------------------------------
+
 ## 🎯 Business Problem
 
 Olist is a multi-seller e-commerce marketplace where the same product
